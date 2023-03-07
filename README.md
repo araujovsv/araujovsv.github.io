@@ -8,5 +8,4 @@ O projeto é uma maneira interativa de visualizar os projetos que eu realizei ao
 - HTML
 - CSS
 
-### Encontrou um bug?
-Se sinta a vontade para me mandar um email em araujovsv@gmail.com
+###
